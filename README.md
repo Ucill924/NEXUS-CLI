@@ -8,7 +8,7 @@ Nexus Network Testnet II memungkinkan kamu berkontribusi dengan menyediakan sumb
 ## 🔧 Instalasi & Konfigurasi
 
 ### 1️⃣ Install Rust
-Jalankan perintah berikut di terminal:
+Jalankan perintah berikut :
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
